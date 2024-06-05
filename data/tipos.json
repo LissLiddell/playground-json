@@ -1,1 +1,22 @@
-"¡Hola Mundo!"
+{
+    "nombre": "lisset",
+    "bandera": false,
+    "edad": 26,
+    "lenguajes": [
+        "Vue 3",
+        "PHP",
+        "json"
+    ],
+    "cursos": [
+        {
+            "nombre": "web",
+            "institucion": "yutu"
+        },
+        {
+            "nombre": "apis",
+            "institucion": "again yutu"
+        }
+
+    ],
+    "sin valor": null
+}
